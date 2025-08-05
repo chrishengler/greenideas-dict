@@ -1,0 +1,11 @@
+#name aux_finite
+#forms default s past prespart pastpart
+
+#class add do
+    > do/does/did/doing/done
+#class remove do
+
+#class add finite
+    > have/has/had/having/had
+    > will/will/will/will/will
+#class remove finite
