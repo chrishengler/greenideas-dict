@@ -2,11 +2,11 @@
 #forms sg pl
 
 #class add definite
-    >this/these
-    >that/those
-    >the/the
+    > this/these
+    > that/those
+    > the/the
 #class remove definite
 
 #class add indefinite
-    >a/some
+    > a/some
 #class remove indefinite

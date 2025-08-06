@@ -1,0 +1,16 @@
+#name pron
+#forms sg pl sgobj plobj sggen plgen
+
+#class add firstperson
+    > I/we/me/us/my/our
+#class remove firstperson
+
+#class add secondperson
+    > you/you/you/you/your/your
+#class remove secondperson
+
+#class add thirdperson
+    > he/they/him/them/his/their
+    > she/they/her/them/her/their
+    > it/they/it/them/its/their
+#class remove thirdperson
