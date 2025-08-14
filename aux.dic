@@ -1,11 +1,12 @@
 #name aux
-#forms default s past prespart pastpart
+#forms default s past
 
 #class add do
-    > do/does/did/doing/done
+    > do/does/did
+    > don't/doesn't/didn't
 #class remove do
 
 #class add finite
-    > have/has/had/having/had
-    > will/will/will have/will/will
+    > have/has/had
+    > haven't/hasn't/hadn't
 #class remove finite

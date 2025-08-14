@@ -1,0 +1,20 @@
+#name modal
+#forms pres presperf presprog presperfprog past pastperf pastprog pastperfprog
+
+#class add positive
+    > can/can have/can be/can have been/could/could have/could be/could have been
+    > may/may have/may be/may have been/might/might have/might be/might have been
+    > shall/shall have/shall be/shall have been/should/should have/should be/should have been
+    > will/will have/will be/will have been/would/would have/would be/would have been
+    > must/must have/must be/must have been/had to/had to have/had to be/had to have been
+    > ought to/ought to have/ought to be/ought to have been/ought to/ought to have/ought to be/ought to have been
+#class remove positive
+
+#class add negative
+    > can't/can't have/can't be/can't have been/couldn't/couldn't have/couldn't be/couldn't have been
+    > may not/may not have/may not be/may not have been/might/might have/might be/might have been
+    > shan't/shan't have/shan't be/shan't have been/shouldn't/shouldn't have/shouldn't be/shouldn't have been
+    > won't/won't have/won't be/won't have been/wouldn't/wouldn't have/wouldn't be/wouldn't have been
+    > mustn't/mustn't have/mustn't be/mustn't have been/had to not/had to have not/had to be not/had to have not been
+    > ought not/ought not have/ought not be/ought not have been/ought not to/ought not have/ought not be/ought to have not been
+#class remove negative

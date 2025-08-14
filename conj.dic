@@ -1,7 +1,31 @@
 #name conj
 #forms default
 
-> and
-> although
-> but
-> yet
+#class add coordinating
+    > and
+    > but
+    > yet
+#class remove coordinating
+
+#class add subordinating
+    > after
+    > although
+    > as
+    > because
+    > before
+    > even though
+    > if
+    > once
+    > provided
+    > since
+    > so that
+    > though
+    > unless
+    > until
+    > when
+    > whenever
+    > where
+    > whereas
+    > wherever
+    > while
+#class remove subordinating
