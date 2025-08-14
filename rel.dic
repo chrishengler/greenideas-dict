@@ -1,0 +1,10 @@
+#name rel
+#forms default
+
+#class add animate
+    > who
+    #class add inanimate
+        > that
+    #class remove animate
+    > which
+#class remove inanimate

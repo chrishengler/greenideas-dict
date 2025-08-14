@@ -10,7 +10,11 @@
 #class remove secondperson
 
 #class add thirdperson
-    > he/they/him/them/his/their
-    > she/they/her/them/her/their
-    > it/they/it/them/its/their
+    #class add animate
+        > he/they/him/them/his/their
+        > she/they/her/them/her/their
+    #class remove animate
+    #class add inanimate
+        > it/they/it/them/its/their
+    #class remove inanimate
 #class remove thirdperson
