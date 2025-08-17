@@ -8,5 +8,5 @@
 #class remove definite
 
 #class add indefinite
-    > a/some
+    > {a}/some
 #class remove indefinite
