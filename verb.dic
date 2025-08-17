@@ -35,20 +35,16 @@
     > admonish/admonishes/admonished/admonishing/admonished
     > adore/adores/adored/adoring/adored
     > authenticate/authenticates/authenticated/authenticating/authenticated
-    > bake/bakes/baked/baking/baked
     > blend/blends/blended/blending/blended
     > boil/boils/boiled/boiling/boiled
     > borrow/borrows/borrowed/borrowing/borrowed
     > break/breaks/broke/breaking/broken
     > breathe/breathes/breathed/breathing/breathed
-    > bring/brings/brought/bringing/brought
     > build/builds/built/building/built
-    > buy/buys/bought/buying/bought
     > catch/catches/caught/catching/caught
     > change/changes/changed/changing/changed
     > climb/climbs/climbed/climbing/climbed
     > close/closes/closed/closing/closed
-    > cook/cooks/cooked/cooking/cooked
     > cultivate/cultivates/cultivated/cultivating/cultivated
     > decorate/decorates/decorated/decorating/decorated
     > deny/denies/denied/denying/denied
@@ -68,7 +64,6 @@
     > explore/explores/explored/exploring/explored
     > fear/fears/feared/fearing/feared
     > fill/fills/filled/filling/filled
-    > find/finds/found/finding/found
     > fix/fixes/fixed/fixing/fixed
     > flatten/flattens/flattened/flattening/flattened
     > fly/flies/flew/flying/flown
@@ -84,7 +79,6 @@
     > know/knows/knew/knowing/known
     > learn/learns/learned/learning/learned
     > leave/leaves/left/leaving/left
-    > lend/lends/lent/lending/lent
     > lift/lifts/lifted/lifting/lifted
     > like/likes/liked/liking/liked
     > loathe/loathes/loathed/loathing/loathed
@@ -102,14 +96,11 @@
     > play/plays/played/playing/played
     > poke/pokes/poked/poking/poked
     > portray/portrays/portrayed/portraying/portrayed
-    > pour/pours/poured/pouring/poured
     > pull/pulls/pulled/pulling/pulled
     > purify/purifies/purified/purifying/purified
     > push/pushes/pushed/pushing/pushed
-    > read/reads/read/reading/read
     > receive/receives/received/receiving/received
     > relocate/relocates/relocated/relocating/relocated
-    > remain/remains/remained/remaining/remained
     > reorganize/reorganizes/reorganized/reorganizing/reorganized
     > roll/rolls/rolled/rolling/rolled
     > search/searches/searched/searching/searched
@@ -124,10 +115,7 @@
     > start/starts/started/starting/started
     > stop/stops/stopped/stopping/stopped
     > study/studies/studied/studying/studied
-    > take/takes/took/taking/taken
     > tame/tames/tamed/taming/tamed
-    > teach/teaches/taught/teaching/taught
-    > throw/throws/threw/throwing/thrown
     > turn/turns/turned/turning/turned
     > understand/understands/understood/understanding/understood
     > validate/validates/validated/validating/validated
@@ -135,4 +123,19 @@
     > want/wants/wanted/wanting/wanted
     > watch/watches/watched/watching/watched
     > wiggle/wiggles/wiggled/wiggling/wiggled
+    #class add trivalent
+        > bake/bakes/baked/baking/baked
+        > bring/brings/brought/bringing/brought
+        > buy/buys/bought/buying/bought
+        > cook/cooks/cooked/cooking/cooked
+        > find/finds/found/finding/found
+        > lend/lends/lent/lending/lent
+        > make/makes/made/making/made
+        > pour/pours/poured/pouring/poured
+        > read/reads/read/reading/read
+        > show/shows/showed/showing/shown
+        > take/takes/took/taking/taken
+        > teach/teaches/taught/teaching/taught
+        > throw/throws/threw/throwing/thrown
+    #class remove trivalent
 #class remove divalent
