@@ -1,6 +1,7 @@
 #name adj
 #forms default
 
+> absorbent
 > agile
 > ancient
 > atmospheric
@@ -8,6 +9,7 @@
 > beautiful
 > bitter
 > bland
+> blue
 > blunt
 > bold
 > bright
@@ -16,6 +18,7 @@
 > cheerful
 > clever
 > colourful
+> colourless
 > cool
 > cute
 > daring
@@ -38,8 +41,10 @@
 > generous
 > gentle
 > gentle
+> gigantic
 > gloomy
 > glossy
+> green
 > grimy
 > handy
 > hard
@@ -48,9 +53,12 @@
 > humble
 > icy
 > immense
+> imperceptible
+> implausible
 > jolly
 > jovial
 > joyful
+> kafkaesque
 > keen
 > kind
 > kindly
@@ -61,6 +69,7 @@
 > matte
 > mellow
 > merry
+> misunderstood
 > musty
 > muted
 > neat
@@ -75,10 +84,13 @@
 > proud
 > pungent
 > pure
+> purple
 > quaint
 > quick
 > quiet
+> quixotic
 > radiant
+> red
 > robust
 > rough
 > salty
@@ -97,6 +109,8 @@
 > thin
 > tidy
 > tranquil
+> underappreciated
+> unexpected
 > unique
 > vast
 > vibrant
@@ -105,5 +119,6 @@
 > wet
 > wise
 > wondrous
+> yellow
 > youthful
 > zealous
