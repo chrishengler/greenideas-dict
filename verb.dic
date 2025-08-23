@@ -128,14 +128,12 @@
         > bring/brings/brought/bringing/brought
         > buy/buys/bought/buying/bought
         > cook/cooks/cooked/cooking/cooked
-        > find/finds/found/finding/found
         > lend/lends/lent/lending/lent
         > make/makes/made/making/made
         > pour/pours/poured/pouring/poured
         > read/reads/read/reading/read
         > show/shows/showed/showing/shown
         > take/takes/took/taking/taken
-        > teach/teaches/taught/teaching/taught
         > throw/throws/threw/throwing/thrown
     #class remove trivalent
 #class remove divalent
