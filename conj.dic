@@ -2,7 +2,10 @@
 #forms default
 
 #class add coordinating
-    > and
+    #class add simple
+        > and
+        > or
+    #class remove simple
     > but
     > yet
 #class remove coordinating
